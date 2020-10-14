@@ -7,7 +7,7 @@ int main(){
 
     while(scanf("%d", &key)==1){
         if(size==0){
-            printf("Array Underflow\n");
+            printf("Array Underflow\n\n");
             break;
         }else{
             index = -1;
